@@ -1,0 +1,28 @@
+# Pythonのバイトコードファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# Djangoのデータベースファイル
+*.sqlite3
+
+# Djangoの静的ファイル
+/static/
+
+# Djangoのメディアファイル
+/media/
+
+# Nodeの依存関係フォルダ
+frontend/node_modules/
+
+# ログファイル
+*.log
+
+# .envファイル
+.env
+
+# macOSのシステムファイル
+.DS_Store
+
+# Python仮想環境フォルダ
+mergeP/
